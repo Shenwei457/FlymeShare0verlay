@@ -1,5 +1,4 @@
-# FlymeNotifyForMIUI14
-
+# FlymeShade0verlay For MIUI
 > 在 MIUI 14 上实现锁屏样式通知中心
 
 ## ⚠️ 免责声明
@@ -30,7 +29,7 @@
 | 系统 | MIUI 14 / Android 14（HyperOS 不保证）|
 | 框架 | LSPosed（minApi 100+）|
 | 作用域 | `系统界面(com.android.systemui)`、`小米系统界面插件(miui.systemui.plugin)` |
-| 机型 | 实测 Xiaomi 13可以运行，其他请自测 |
+| 机型 | 实测 Xiaomi 13（系统MIUI14.0.5）可以运行，其他机型由于条件受限无法测试 慎用 |
 
 > ⚠️ 与 CustoMIUIzer、ChiMi、HyperLight 等改系统界面模块**可能冲突**，同开需自测。
 
